@@ -1,5 +1,6 @@
 import './App.css'
 import ResourcepackCards from '../oneusecomp/ResourcepackCards'
+import ModCards from '../oneusecomp/ModCards'
 import { Link } from 'react-router-dom'
 
 function Index(){
@@ -22,7 +23,7 @@ function Index(){
           <h2> Mods/Datapacks</h2>
           <ul>
           <li>
-              <h3> WIP </h3>
+              <ModCards />
 
 
           </li>
