@@ -19,7 +19,7 @@ function ModCards(){
             description="Teach the player without the need of documentation or wikia!"
             />
             <Card
-            name="Potassium Water"
+            name="Noisediscs"
             description="Potassium + Water = BOOM! Explosive Water!"
             />
 
