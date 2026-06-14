@@ -13,10 +13,4 @@ function Card(props){
    </div>
 )
 }
-Card.defaultProps = {
-//img: defaultImg,
-alt: "TEST",
-name: "WIP",
-desc: "WIP",
-}
 export default Card
