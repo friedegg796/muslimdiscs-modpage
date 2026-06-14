@@ -1,4 +1,5 @@
 import Card from '/src/reusablecomponenets/Card.jsx'
+import MuslimdiscsImg from ' '
 import './components.css'
 
 
@@ -7,6 +8,8 @@ function ModCards(){
     return(
         <div className="cards">
              <Card
+            img={}
+            alt="wow"
             name="Muslimdiscs"
             desc="Use the Jukebox for more Islamic audios!--Adds Islamic discs to Minecraft."
             />
