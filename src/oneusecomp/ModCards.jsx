@@ -20,10 +20,14 @@ function ModCards(){
             desc="Teach the player without the need of documentation or wikia!"
             />
             <Card
+            img="https://raw.githubusercontent.com/friedegg796/Potassium-Water/refs/heads/main/src/main/resources/assets/potassium-water/icon.png"
+            alt="Image of the Potassium Water item"
             name="Potassium Water"
             desc="Potassium + Water = BOOM! Explosive Water!"
             />
             <Card
+            img=""
+            alt="An image of one of the Noise Discs"
             name="Noisediscs"
             desc="Calming Noises Await!"
             />
