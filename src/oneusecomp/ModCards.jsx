@@ -1,4 +1,4 @@
-import Card from ../././reusablecomponenets/Card.jsx
+import Card from ././src/reusablecomponenets/Card.jsx
 import './components.css'
 
 
