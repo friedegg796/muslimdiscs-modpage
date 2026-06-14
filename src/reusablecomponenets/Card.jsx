@@ -1,6 +1,8 @@
 import '../components.css'
 import { Link } from 'react-router-dom'
-function MuslimcraftCard(){
+
+
+function Card(props){
 
    return(
   <div className="card">
