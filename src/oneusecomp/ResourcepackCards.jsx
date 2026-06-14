@@ -1,5 +1,5 @@
-import ArsMuslimCard from './ArsMuslimCard'
-import MuslimcraftCard from './MuslimcraftCard'
+import ArsMuslimCard from './Resourcepacks/ArsMuslimCard'
+import MuslimcraftCard from './Resourcepacks/MuslimcraftCard'
 import './components.css'
 
 
