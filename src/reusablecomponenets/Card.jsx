@@ -1,4 +1,4 @@
-import '../components.css'
+
 import { Link } from 'react-router-dom'
 
 
@@ -8,8 +8,8 @@ function Card(props){
   <div className="card">
     <Link to="/MuslimcraftDownloads">
         <img src="muslimdiscs-modpage/src/assets/pack3.png" alt="Muslimcraft Resourcepack" width="200"></img>
-        <h2> Muslimcraft </h2>
-        <p> Make Minecraft more clearly halal! </p>
+        <h2> props.name </h2>
+        <p> props.description </p>
     </Link>
    </div>
 )
