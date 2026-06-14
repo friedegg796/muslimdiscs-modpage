@@ -1,5 +1,4 @@
-import ArsMuslimCard from './ArsMuslimCard'
-import MuslimcraftCard from './MuslimcraftCard'
+
 import './components.css'
 
 
