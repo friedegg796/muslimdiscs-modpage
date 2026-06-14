@@ -8,11 +8,11 @@ function ModCards(){
         <div className="cards">
              <Card
             name="Muslimdiscs"
-            description="Use the Jukebox for more Islamic audios!--Adds Islamic discs to Minecraft."
+            desc="Use the Jukebox for more Islamic audios!--Adds Islamic discs to Minecraft."
             />
             <Card
             name="Potassium Water"
-            description="Potassium + Water = BOOM! Explosive Water!"
+            desc="Potassium + Water = BOOM! Explosive Water!"
             />
             <Card
             name="Tutorial Structures"
@@ -20,7 +20,7 @@ function ModCards(){
             />
             <Card
             name="Noisediscs"
-            description="Potassium + Water = BOOM! Explosive Water!"
+            desc="Calming Noises Await!"
             />
             <Card />
         </div>
