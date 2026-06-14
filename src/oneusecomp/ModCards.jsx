@@ -16,7 +16,7 @@ function ModCards(){
             />
             <Card
             name="Tutorial Structures"
-            description="Teach the player without the need of documentation or wikia!"
+            desc="Teach the player without the need of documentation or wikia!"
             />
             <Card
             name="Noisediscs"
