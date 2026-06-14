@@ -9,17 +9,19 @@ function ModCards(){
         <div className="cards">
              <Card
             img="https://raw.githubusercontent.com/friedegg796/Muslimdiscs/refs/heads/main/src/main/resources/assets/muslimdiscs/icon.png"
-            alt="wow"
+            alt="Muslimdiscs icon, has a disc sandwitched between Muslim and discs "
             name="Muslimdiscs"
             desc="Use the Jukebox for more Islamic audios!--Adds Islamic discs to Minecraft."
             />
             <Card
-            name="Potassium Water"
-            desc="Potassium + Water = BOOM! Explosive Water!"
-            />
-            <Card
+            img="https://raw.githubusercontent.com/friedegg796/TutorialStructures/refs/heads/main/src/main/resources/assets/icon.png"
+            alt="Tutorial Structures Icon"
             name="Tutorial Structures"
             desc="Teach the player without the need of documentation or wikia!"
+            />
+            <Card
+            name="Potassium Water"
+            desc="Potassium + Water = BOOM! Explosive Water!"
             />
             <Card
             name="Noisediscs"
