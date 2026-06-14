@@ -22,7 +22,7 @@ function ModCards(){
             name="Noisediscs"
             description="Potassium + Water = BOOM! Explosive Water!"
             />
-
+            <Card />
         </div>
     )
 }

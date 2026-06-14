@@ -16,7 +16,7 @@ function Card(props){
 Card.defaultProps = {
 img: "muslimdiscs-modpage/src/assets/pack3.png",
 alt: "TEST",
-name:"WIP",
-desc:"WIP",
+name: "WIP",
+desc: "WIP",
 }
 export default Card
