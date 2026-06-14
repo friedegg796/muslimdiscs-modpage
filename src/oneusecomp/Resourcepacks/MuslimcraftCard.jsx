@@ -1,4 +1,4 @@
-import './components.css'
+import '../components.css'
 import { Link } from 'react-router-dom'
 function MuslimcraftCard(){
 
