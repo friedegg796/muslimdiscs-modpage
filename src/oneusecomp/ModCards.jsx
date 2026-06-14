@@ -15,8 +15,8 @@ function ModCards(){
             description="Teach the player without Documentation or Wikia!"
             />
             <Card
-            name="MuslimDiscs"
-            description="Potassium + Water = BOOM! Explosive Water!"
+            name="Muslimdiscs"
+            description=""
             />
             <Card
             name="Potassium Water"
