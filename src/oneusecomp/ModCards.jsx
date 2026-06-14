@@ -21,13 +21,13 @@ function ModCards(){
             />
             <Card
             img="https://raw.githubusercontent.com/friedegg796/Potassium-Water/refs/heads/main/src/main/resources/assets/potassium-water/icon.png"
-            alt="Image of the Potassium Water item"
+            alt="Image of Potassium Water's icon"
             name="Potassium Water"
             desc="Potassium + Water = BOOM! Explosive Water!"
             />
             <Card
-            img=""
-            alt="An image of one of the Noise Discs"
+            img="https://raw.githubusercontent.com/friedegg796/Noisediscs/refs/heads/master/src/main/resources/assets/noisediscs/icon.png"
+            alt="An image of the Noisediscs icon"
             name="Noisediscs"
             desc="Calming Noises Await!"
             />
