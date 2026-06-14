@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-
+import defaultimg from 'muslimdiscs-modpage/src/assets/pack3.png'
 
 function Card(props){
 
@@ -14,7 +14,7 @@ function Card(props){
 )
 }
 Card.defaultProps = {
-img: "muslimdiscs-modpage/src/assets/pack3.png",
+img: "",
 alt: "TEST",
 name: "WIP",
 desc: "WIP",
