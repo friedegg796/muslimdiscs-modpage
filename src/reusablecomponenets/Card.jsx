@@ -6,7 +6,7 @@ function Card(props){
    return(
   <div className="card">
     <Link to="/MuslimcraftDownloads">
-        <img src={props.img} alt={props.alt} width="200"></img>
+        <img src={props.img} alt={props.alt} width="200" />
         <h2> {props.name} </h2>
         <p> {props.desc} </p>
     </Link>
