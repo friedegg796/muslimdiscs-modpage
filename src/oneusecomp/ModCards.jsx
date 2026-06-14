@@ -7,8 +7,7 @@ function ModCards(){
 
     return(
         <div className="cards">
-            <ArsMuslimCard />
-            <MuslimcraftCard />
+
         </div>
     )
 }
