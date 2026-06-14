@@ -12,10 +12,10 @@ function ModCards(){
             />
             <Card
             name="Tutorial Structures"
-            description="Potassium + Water = BOOM! Explosive Water!"
+            description="Teach the player without Documentation or Wikia!"
             />
             <Card
-            name="Potassium Water"
+            name="MuslimDiscs"
             description="Potassium + Water = BOOM! Explosive Water!"
             />
             <Card
