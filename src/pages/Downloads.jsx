@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import MuslimcraftLiteDownloadsList from '/src/oneusecomp/Resourcepacks/Muslimcraft/MuslimcraftLiteDownloadsList.jsx';
-function MuslimcraftDownloads(){
+function Downloads(){
 
     return(
         <>
@@ -28,4 +28,4 @@ function MuslimcraftDownloads(){
 
             }
 
-export default MuslimcraftDownloads
+export default Downloads
