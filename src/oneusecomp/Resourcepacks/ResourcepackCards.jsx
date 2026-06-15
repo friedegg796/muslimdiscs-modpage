@@ -8,7 +8,7 @@ function ResourcepackCards(){
     return(
         <div className="cards">
              <Card
-             link=""
+             link="/Muslimcraft"
             img="muslimcraft"
             alt="Muslimcraft icon"
             name="Muslimcraft"
