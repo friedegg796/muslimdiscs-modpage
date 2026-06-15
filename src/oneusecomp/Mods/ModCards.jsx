@@ -1,6 +1,6 @@
 import Card from '/src/reusablecomponenets/Card.jsx'
 
-import './components.css'
+import '/src/oneusecomp/components.css'
 
 
 function ModCards(){
@@ -31,7 +31,6 @@ function ModCards(){
             name="Noisediscs"
             desc="Calming Noises Await!"
             />
-            <Card />
         </div>
     )
 }

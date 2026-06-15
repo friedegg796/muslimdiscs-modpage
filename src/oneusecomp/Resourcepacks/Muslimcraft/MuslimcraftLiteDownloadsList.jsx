@@ -1,4 +1,4 @@
-import './components.css';
+import '/src/oneusecomp/components.css';
 import { Link } from 'react-router-dom';
 
 function MuslimcraftLiteDownloadsList() {

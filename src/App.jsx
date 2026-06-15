@@ -5,7 +5,6 @@ import Index from './pages/Index.jsx'
 import Changes from './pages/Changes.jsx'
 import MuslimcraftDownloads from './pages/MuslimcraftDownloads.jsx'
 import Navbar from './reusablecomponenets/Navbar.jsx'
-//import ArsMuslimDownloads from './pages/ArsMuslimDownloads.jsx'
 //import Footer from '/workspaces/214691060/muslimdiscs-modpage/src/componenets/Footer.jsx'
 
 function App() {
@@ -20,7 +19,6 @@ function App() {
         <Route path="/" element={<Index/>}/>
         <Route path="/MuslimcraftDownloads" element={<MuslimcraftDownloads/>}/>
         <Route path="/Changes" element={<Changes/>}/>
-       {/* <Route path="/ArsMuslimDownloads" element={<ArsMuslimDownloads/>}/> */}
         </Routes>
 
 

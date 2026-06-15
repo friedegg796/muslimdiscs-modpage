@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import MuslimcraftLiteDownloadsList from '../oneusecomp/MuslimcraftLiteDownloadsList';
+import MuslimcraftLiteDownloadsList from '/src/oneusecomp/Resourcepacks/Muslimcraft/MuslimcraftLiteDownloadsList.jsx';
 function MuslimcraftDownloads(){
 
     return(
