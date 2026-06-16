@@ -1,4 +1,5 @@
 import './App.css'
+import Changes from './pages/Changes.jsx'
 
 function Muslimcraft(){
 
