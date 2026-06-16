@@ -45,9 +45,7 @@ On [Github](https://github.com/friedegg796/Muslimcraft-Lite?tab=readme-ov-file) 
 Or look for the named zip file in [releases](https://github.com/friedegg796/Muslimcraft-Lite/releases).
 
 
-## Credits
-
-### Textures
+<h3> Credits </h3>
 <details>
 <summary>Textures</summary>
 
