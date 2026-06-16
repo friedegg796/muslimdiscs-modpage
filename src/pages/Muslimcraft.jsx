@@ -14,11 +14,11 @@ This includes changing things like Pork to be Truffles (Fun fact, Truffles are a
 
 It SHOULD have removed Music entirely, with some of the music being replaced with Nasheeds, and the Jukebox Discs having Quran instead.
 
-As well as this, it changes some paintings to be that of Mosques, instead of what they were before.
+As well as this, it replaces the old paintings with Mosques.
 
 Albeit, it doesn't, unlike the full version, remove the faces from all of the webs, items, and effects (where they have it).
 
-For a more Exhaustive list, look at the <Link to="/Changes">Changes</Link>
+For a more Exhaustive list, look at the <p>Changes </p>
 
 
 ## Questions/Suggestions/Problems
