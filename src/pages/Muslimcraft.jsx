@@ -23,5 +23,4 @@ function Muslimcraft(){
 
 }
 
-
 export default Muslimcraft
