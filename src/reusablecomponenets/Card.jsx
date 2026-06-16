@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import defaultimg from '/src/assets/pack3.png'
 
-function Card({link = #} ){
+function Card(}){
 
    return(
   <div className="card">
