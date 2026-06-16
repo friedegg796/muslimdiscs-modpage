@@ -17,7 +17,7 @@ As well as this, it changes some paintings to be that of Mosques, instead of wha
 
 Albeit, it doesn't, unlike the full version, remove the faces from all of the webs, items, and effects (where they have it).
 
-For a more Exhaustive list, I haven't finished the website yet so this is a WIP, will be finished inshaAllah.
+For a more Exhaustive list, look at the <Changes></Changes>
 
 
 ## Questions/Suggestions/Problems
