@@ -1,5 +1,5 @@
 import './App.css'
-import Changes from './pages/Changes.jsx'
+import Changes from './Changes.jsx'
 
 function Muslimcraft(){
 
@@ -18,7 +18,7 @@ As well as this, it changes some paintings to be that of Mosques, instead of wha
 
 Albeit, it doesn't, unlike the full version, remove the faces from all of the webs, items, and effects (where they have it).
 
-For a more Exhaustive list, look at the <Changes></Changes>
+For a more Exhaustive list, look at the <Link> </link>
 
 
 ## Questions/Suggestions/Problems
