@@ -23,7 +23,7 @@ For a more Exhaustive list, look at the <p>Changes </p>
 
 Make an [issue](https://github.com/friedegg796/Muslimcraft-Lite/issues), I'll check it inshaAllah.
 
-### (Insert thing here) isn't Haram!
+<h3>(Insert thing here) isn't Haram!</h3>
 
 Just because the pack changes it doesn't mean nessecarily it is Haram, but it may be something that is viewed as Haram (Or may have been changed to fit other changes).
 
@@ -36,7 +36,7 @@ If on Modrinth, read their TOS as well.
 
 ### How do I install...
 
-On Modrinth you install the zip and then put it in your Resourcepacks folder of your Minecraft Instance.
+On here you go to <b> Downloads </b>, install the zip and then put it in your Resourcepacks folder of your Minecraft Instance.
 
 On [Github](https://github.com/friedegg796/Muslimcraft-Lite?tab=readme-ov-file) you install the zip, unzip it, and then do the above (Unreleased versions).
 
