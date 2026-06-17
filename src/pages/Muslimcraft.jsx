@@ -257,7 +257,7 @@ https://www.mp3quran.net/eng with it itsself saying "Copyrights: All rights are 
 
 <p>Although some images may be taken from the Public Domain, their modified versions are not in the Public Domain.</p>
 
-NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
+ <p>NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.</p>
     </div>
     </>
     )
