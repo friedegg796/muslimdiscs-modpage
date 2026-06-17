@@ -16,12 +16,10 @@ It SHOULD have removed Music entirely, with some of the music being replaced wit
 
 As well as this, it replaces the old paintings with Mosques.
 
-Albeit, it doesn't, unlike the full version, remove the faces from all of the webs, items, and effects (where they have it).
-
 For a more Exhaustive list, look at the <p>Changes </p>
 
 
-## Questions/Suggestions/Problems
+<h2> Questions/Suggestions/Problems </h2>
 
 Make an [issue](https://github.com/friedegg796/Muslimcraft-Lite/issues), I'll check it inshaAllah.
 
