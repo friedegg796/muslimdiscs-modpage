@@ -29,7 +29,7 @@ function Tutorialstructures(){
 
 On here you go to <b> Downloads </b>, install the zip and then put it in your Resourcepacks folder of your Minecraft Instance.
 
-On <a href="https://github.com/friedegg796/TutorialStructures?tab=readme-ov-file> Github </a> you install the zip, unzip it, and then do the above (Unreleased/Latest versions).
+On <a href="https://github.com/friedegg796/TutorialStructures?tab=readme-ov-file"> Github </a> you install the zip, unzip it, and then do the above (Unreleased/Latest versions).
 
 Or look for the named zip file in [releases](https://github.com/friedegg796/Muslimcraft-Lite/releases).
 
