@@ -8,13 +8,15 @@ function Muslimcraft(){
     <div>
      <h1> Muslimcraft </h1>
 
-Makes Minecraft clearly Halal, removing any doubt that it would be Haram.
+<p>Makes Minecraft clearly Halal, removing any doubt that it would be Haram.</p>
 
-This includes changing things like Pork to be Truffles (Fun fact, Truffles are a fungus that pigs can actually sniff for in real life!), and changing the Totem of Undying to, in the exact wording, a "Super High Quality Defibrillator."
+<p>
+This includes changing things like Pork to be Truffles (Fun fact, Truffles are a fungus that pigs can actually sniff for in real life!),
+and changing the Totem of Undying to, in the exact wording, a "Super High Quality Defibrillator."</p>
 
-It SHOULD have removed Music entirely, with some of the music being replaced with Nasheeds, and the Jukebox Discs having Quran instead.
+<p>It SHOULD have removed Music entirely, with some of the music being replaced with Nasheeds, and the Jukebox Discs having Quran instead.</p>
 
-As well as this, it replaces the old paintings with Mosques.
+<p>As well as this, it replaces the old paintings with Mosques.</p>
 
 For a more Exhaustive list, look at the <p>Changes </p>
 
