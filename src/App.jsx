@@ -7,7 +7,7 @@ import Downloads from './pages/Downloads.jsx'
 import Muslimcraft from './pages/Muslimcraft.jsx'
 import Tutorialstructures from './pages/Tutorialstructures.jsx'
 import Navbar from './reusablecomponenets/Navbar.jsx'
-//import Footer from '/workspaces/214691060/muslimdiscs-modpage/src/componenets/Footer.jsx'
+import Footer from './reusablecomponenets/Footer.jsx'
 
 function App() {
 
@@ -24,10 +24,9 @@ function App() {
         <Route path="/Muslimcraft" element={<Muslimcraft/>}/>
         <Route path="/Tutorialstructures" element={<Tutorialstructures/>}/>
         </Routes>
-
-
+        <Footer/>
     </HashRouter>
-   { <Footer />}
+
     </>
   )
 }
