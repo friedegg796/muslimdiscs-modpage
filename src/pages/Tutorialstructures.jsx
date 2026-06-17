@@ -19,10 +19,11 @@ function Tutorialstructures(){
 
 Make an [issue](https://github.com/friedegg796/Muslimcraft-Lite/issues), I'll check it inshaAllah.
 
-### Could I put your Mod nto MY modpack?
-Read the [License](https://github.com/friedegg796/Muslimcraft-Lite?tab=License-1-ov-file#)
+### Could I put it into MY modpack/Use it in my video?
 
-If on Modrinth, read their TOS as well.
+Read the [License](https://github.com/friedegg796/TutorialStructures?tab=License-1-ov-file)
+
+For those on Modrinth please read it's TOS before incorporating it into your modpack.
 
 <h3> How do I install...</h3>
 
