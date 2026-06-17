@@ -249,9 +249,13 @@ https://www.mp3quran.net/eng with it itsself saying "Copyrights: All rights are 
 <h4>Disclaimer</h4>
 
 
-I do NOT CONDONE the credited, I only took what was benefical from them; I am not responsible for what they do, but I do appreciate the benefical things they brought, May Allah guide us and them and grant us all Jannah tul Firdaws al `Ala.
+<p>I do NOT CONDONE the credited, I only took what was benefical from them;</p>
 
-And although some images may be taken from the Public Domain, their modified versions are not in the Public Domain.
+<br></br>
+
+<p>I am not responsible for what they do, but I do appreciate the benefical things they brought, May Allah guide us and them and grant us all Jannah tul Firdaws al `Ala.</p>
+
+<p>Although some images may be taken from the Public Domain, their modified versions are not in the Public Domain.</p>
 
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
     </div>
