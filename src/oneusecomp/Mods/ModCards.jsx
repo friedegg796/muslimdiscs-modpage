@@ -8,12 +8,14 @@ function ModCards(){
     return(
         <div className="cards">
              <Card
+            link=""
             img="https://raw.githubusercontent.com/friedegg796/Muslimdiscs/refs/heads/main/src/main/resources/assets/muslimdiscs/icon.png"
             alt="Muslimdiscs icon, has a disc sandwitched between Muslim and discs "
             name="Muslimdiscs"
             desc="Use the Jukebox for more Islamic audios!--Adds Islamic discs to Minecraft."
             />
             <Card
+            link="/Tutorialstructures"
             img="https://raw.githubusercontent.com/friedegg796/TutorialStructures/refs/heads/main/src/main/resources/assets/icon.png"
             alt="Tutorial Structures Icon"
             name="Tutorial Structures"
