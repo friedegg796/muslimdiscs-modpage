@@ -1,4 +1,4 @@
-import './App.css'
+import './Pages.css'
 import Changes from './Changes.jsx'
 
 function Muslimcraft(){
@@ -14,12 +14,16 @@ function Muslimcraft(){
 This includes changing things like Pork to be Truffles (Fun fact, Truffles are a fungus that pigs can actually sniff for in real life!),
 and changing the Totem of Undying to, in the exact wording, a "Super High Quality Defibrillator."</p>
 
-<p>It SHOULD have removed Music entirely, with some of the music being replaced with Nasheeds, and the Jukebox Discs having Quran instead.</p>
+<p>It SHOULD have removed Music entirely, with the music being replaced with Nasheeds or silenced, the Jukebox Discs playing more Islamic Audio, and the Noteblocks playing no sound at all (As of version 1.0.3)</p>
 
 <p>As well as this, it replaces the old paintings with Mosques.</p>
 
-For a more Exhaustive list, look at the <p>Changes </p>
+For a more Exhaustive list, look at the <b>Changes </b>
 
+
+<br/>
+
+<hr/>
 
 <h2> Questions/Suggestions/Problems </h2>
 

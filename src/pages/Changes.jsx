@@ -1,4 +1,4 @@
-import './App.css'
+import './Pages.css'
 
 function Changes(){
 

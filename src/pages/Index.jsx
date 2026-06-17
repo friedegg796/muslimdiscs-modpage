@@ -1,4 +1,4 @@
-import './App.css'
+import './Pages.css'
 import ResourcepackCards from '/src/oneusecomp/Resourcepacks/ResourcepackCards.jsx'
 import ModCards from '/src/oneusecomp/Mods/ModCards.jsx'
 import { Link } from 'react-router-dom'

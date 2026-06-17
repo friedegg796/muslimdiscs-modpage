@@ -1,3 +1,4 @@
+import './Pages.css'
 import { Link } from 'react-router-dom'
 import MuslimcraftLiteDownloadsList from '/src/oneusecomp/Resourcepacks/Muslimcraft/MuslimcraftLiteDownloadsList.jsx';
 function Downloads(){
