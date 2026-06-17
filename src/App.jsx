@@ -27,7 +27,7 @@ function App() {
 
 
     </HashRouter>
-   {/* <Footer /> */}
+   { <Footer />}
     </>
   )
 }

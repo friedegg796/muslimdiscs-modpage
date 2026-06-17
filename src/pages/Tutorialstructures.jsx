@@ -10,10 +10,6 @@ function Tutorialstructures(){
 
 <p>Adds in structures that teach the player certain mechanics.</p>
 
-
-<h4>Disclaimer</h4>
-
-<p> NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT. </p>
     </div>
     </>
     )
