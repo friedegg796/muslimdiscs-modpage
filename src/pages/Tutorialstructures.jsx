@@ -17,9 +17,9 @@ function Tutorialstructures(){
 
 <h2> Questions/Suggestions/Problems </h2>
 
-Make an [issue](https://github.com/friedegg796/Muslimcraft-Lite/issues), I'll check it inshaAllah.
+Make an [issue](https://github.com/friedegg796/TutorialStructures/issues), I'll check it inshaAllah.
 
-### Could I put it into MY modpack/Use it in my video?
+<h3> Could I put it into MY modpack/Use it in my video? </h3>
 
 Read the [License](https://github.com/friedegg796/TutorialStructures?tab=License-1-ov-file)
 
