@@ -34,11 +34,11 @@ Read the [License](https://github.com/friedegg796/Muslimcraft-Lite?tab=License-1
 
 If on Modrinth, read their TOS as well.
 
-### How do I install...
+<h3> How do I install...</h3>
 
 On here you go to <b> Downloads </b>, install the zip and then put it in your Resourcepacks folder of your Minecraft Instance.
 
-On [Github](https://github.com/friedegg796/Muslimcraft-Lite?tab=readme-ov-file) you install the zip, unzip it, and then do the above (Unreleased versions).
+On [Github](https://github.com/friedegg796/Muslimcraft-Lite?tab=readme-ov-file) you install the zip, unzip it, and then do the above (Unreleased/Latest versions).
 
 Or look for the named zip file in [releases](https://github.com/friedegg796/Muslimcraft-Lite/releases).
 
@@ -240,7 +240,7 @@ https://www.mp3quran.net/eng with it itsself saying "Copyrights: All rights are 
 
 </details>
 
-#### Disclaimer
+<h4>Disclaimer</h4>
 
 
 I do NOT CONDONE the credited, I only took what was benefical from them; I am not responsible for what they do, but I do appreciate the benefical things they brought, May Allah guide us and them and grant us all Jannah tul Firdaws al `Ala.
