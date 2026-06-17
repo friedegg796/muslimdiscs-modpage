@@ -6,9 +6,9 @@ function Tutorialstructures(){
     return(
     <>
     <div>
-     <h1> Muslimcraft </h1>
+     <h1> Tutorialstructures </h1>
 
-<p>Makes Minecraft clearly Halal, removing any doubt that it would be Haram.</p>
+<p>Adds in structures that teach the player certain mechanics.</p>
 
 
 <h4>Disclaimer</h4>
