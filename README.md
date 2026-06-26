@@ -1,5 +1,7 @@
-# test
-hello this is website still in making tips are cool
+# Muslimdiscs Modpage
+The website is still in progress.
+
+Any tips are appreciated!
 
 
 ## Sponsers
