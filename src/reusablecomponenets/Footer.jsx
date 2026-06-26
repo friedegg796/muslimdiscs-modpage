@@ -4,6 +4,7 @@ function Footer() {
 
     return(
         <>
+        <hr/>
         <br/>
         <footer>
        <p> NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.</p>
