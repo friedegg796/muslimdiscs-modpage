@@ -2,9 +2,12 @@
 
 function ColormodeButton() {
 
+     const handleClick = () => return (console.log("WOW");)
+
     return(
 
-        const Handleclick = () => return {console.log("WOW)};
+        <button Onclick="{ handleClick }> wow </button>
+
 
     )
 }
