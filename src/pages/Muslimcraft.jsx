@@ -27,24 +27,24 @@ For a more Exhaustive list, look at the <b>Changes </b>
 
 <h2> Questions/Suggestions/Problems </h2>
 
-Make an [issue](https://github.com/friedegg796/Muslimcraft-Lite/issues), I'll check it inshaAllah.
+<p>Make an [issue](https://github.com/friedegg796/Muslimcraft-Lite/issues), I'll check it inshaAllah. </p>
 
 <h3>(Insert thing here) isn't Haram!</h3>
 
-Just because the pack changes it doesn't mean nessecarily it is Haram, but it may be something that is viewed as Haram (Or may have been changed to fit other changes).
+<p>Just because the pack changes it doesn't mean nessecarily it is Haram,
+    but it may be something that is viewed as Haram (Or something else).</p>
 
-There are also differing opinions based on what would be considered Haram or not, I'm just trying to emcompass all of them.
+<h3> Usage in projects </h3>
+<p>Read the [License](https://github.com/friedegg796/Muslimcraft-Lite?tab=License-1-ov-file#)</p>
 
-### Could I put your Resourcepack into MY modpack?
-Read the [License](https://github.com/friedegg796/Muslimcraft-Lite?tab=License-1-ov-file#)
+<p>If on Modrinth, read their TOS as well.</p>
 
-If on Modrinth, read their TOS as well.
+<h3> Installation </h3>
 
-<h3> How do I install...</h3>
+<p>On here you go to <b> Downloads </b>, install the zip and then put it in your Resourcepacks folder of your Minecraft Instance. </p>
 
-On here you go to <b> Downloads </b>, install the zip and then put it in your Resourcepacks folder of your Minecraft Instance.
-
-On [Github](https://github.com/friedegg796/Muslimcraft-Lite?tab=readme-ov-file) you install the zip, unzip it, and then do the above (Unreleased/Latest versions).
+On [Github](https://github.com/friedegg796/Muslimcraft-Lite?tab=readme-ov-file) you install the zip,
+ unzip it, and then do the above (Unreleased/Latest versions).
 
 Or look for the named zip file in [releases](https://github.com/friedegg796/Muslimcraft-Lite/releases).
 
